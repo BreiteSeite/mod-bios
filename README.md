@@ -18,3 +18,9 @@ Based on official ASUS P8Z77-V Deluxe 2003 BIOS.
 
  Version 1.2
 * Updated to Intel RAID ROM from v11.0.0.1339 to v12.7.0.1936
+
+Version 1.2.1
+* Updated Intel EFI RAID "SataDriver" BIOS from 11.5.0.1582 to 12.7.0.1936
+* Updated Intel LAN ROM from v1.3.81 to v1.5.13
+* Updated Intel VGA ROM from build 2132 to build 2158
+* Realtek LAN ROM from  to v2.43 (08/25/11)to v2.55 (05/08/13)
